@@ -1,0 +1,362 @@
+{
+  "blackglossmat": {
+    "file": "gtr35_parts\\blackglossmat.txt",
+    "use_texture": false,
+    "base_color": [
+      0.024631183594465256,
+      0.024631183594465256,
+      0.024631183594465256
+    ],
+    "alpha": 1.0,
+    "roughness": 0.24320241808891296,
+    "metallic": 0.7069486379623413
+  },
+  "blackmatt2b": {
+    "file": "gtr35_parts\\blackmatt2b.txt",
+    "use_texture": false,
+    "base_color": [
+      0.0031476602889597416,
+      0.0031476602889597416,
+      0.0031476602889597416
+    ],
+    "alpha": 1.0,
+    "roughness": 0.8882442712783813,
+    "metallic": 0.22658610343933105
+  },
+  "brakedisc": {
+    "file": "gtr35_parts\\brakedisc.txt",
+    "use_texture": false,
+    "base_color": [
+      0.020742934197187424,
+      0.020742934197187424,
+      0.020742934197187424
+    ],
+    "alpha": 1.0,
+    "roughness": 0.30000001192092896,
+    "metallic": 1.0
+  },
+  "CarbonFiberBlack": {
+    "file": "gtr35_parts\\CarbonFiberBlack.txt",
+    "use_texture": false,
+    "base_color": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "alpha": 1.0,
+    "roughness": 0.5,
+    "metallic": 0.0
+  },
+  "CarbonFiberBlackmatte": {
+    "file": "gtr35_parts\\CarbonFiberBlackmatte.txt",
+    "use_texture": false,
+    "base_color": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "alpha": 1.0,
+    "roughness": 0.5,
+    "metallic": 0.0
+  },
+  "CarpaintGlossBlack": {
+    "file": "gtr35_parts\\CarpaintGlossBlack.txt",
+    "use_texture": false,
+    "base_color": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "alpha": 1.0,
+    "roughness": 1.0,
+    "metallic": 0.0
+  },
+  "CarpaintMatteBlack": {
+    "file": "gtr35_parts\\CarpaintMatteBlack.txt",
+    "use_texture": false,
+    "base_color": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "alpha": 1.0,
+    "roughness": 1.0,
+    "metallic": 0.0
+  },
+  "CarpaintMetallicBlack": {
+    "file": "gtr35_parts\\CarpaintMetallicBlack.txt",
+    "use_texture": false,
+    "base_color": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "alpha": 1.0,
+    "roughness": 0.5,
+    "metallic": 0.0
+  },
+  "CarpaintMetallicDarkGrey": {
+    "file": "gtr35_parts\\CarpaintMetallicDarkGrey.txt",
+    "use_texture": false,
+    "base_color": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "alpha": 1.0,
+    "roughness": 0.5,
+    "metallic": 0.0
+  },
+  "CarpaintMetallicGoldenYellow": {
+    "file": "gtr35_parts\\CarpaintMetallicGoldenYellow.txt",
+    "use_texture": false,
+    "base_color": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "alpha": 1.0,
+    "roughness": 0.5,
+    "metallic": 0.0
+  },
+  "chrome_a": {
+    "file": "gtr35_parts\\chrome_a.txt",
+    "use_texture": false,
+    "base_color": [
+      0.7843137979507446,
+      0.7843137979507446,
+      0.7843137979507446
+    ],
+    "alpha": 1.0,
+    "roughness": 0.0,
+    "metallic": 1.0
+  },
+  "chrome_b": {
+    "file": "gtr35_parts\\chrome_b.txt",
+    "use_texture": false,
+    "base_color": [
+      0.7843137979507446,
+      0.7843137979507446,
+      0.7843137979507446
+    ],
+    "alpha": 1.0,
+    "roughness": 0.0,
+    "metallic": 1.0
+  },
+  "disc": {
+    "file": "gtr35_parts\\disc.txt",
+    "use_texture": true,
+    "base_color": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "alpha": 1.0,
+    "roughness": 0.19447126984596252,
+    "metallic": 1.0
+  },
+  "gloassygreyishblackmat": {
+    "file": "gtr35_parts\\gloassygreyishblackmat.txt",
+    "use_texture": false,
+    "base_color": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "alpha": 1.0,
+    "roughness": 0.0,
+    "metallic": 0.3987341821193695
+  },
+  "gloassywhitemat": {
+    "file": "gtr35_parts\\gloassywhitemat.txt",
+    "use_texture": false,
+    "base_color": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "alpha": 1.0,
+    "roughness": 0.0,
+    "metallic": 0.0
+  },
+  "goldstripe": {
+    "file": "gtr35_parts\\goldstripe.txt",
+    "use_texture": false,
+    "base_color": [
+      1.0,
+      0.46617352962493896,
+      0.0
+    ],
+    "alpha": 1.0,
+    "roughness": 0.26676738262176514,
+    "metallic": 0.5015105605125427
+  },
+  "headlight": {
+    "file": "gtr35_parts\\headlight.txt",
+    "use_texture": false,
+    "base_color": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "alpha": 1.0,
+    "roughness": 1.0,
+    "metallic": 1.0
+  },
+  "Leather_all": {
+    "file": "gtr35_parts\\Leather_all.txt",
+    "use_texture": false,
+    "base_color": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "alpha": 1.0,
+    "roughness": 1.0,
+    "metallic": 0.0
+  },
+  "mattblack": {
+    "file": "gtr35_parts\\mattblack.txt",
+    "use_texture": false,
+    "base_color": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "alpha": 1.0,
+    "roughness": 1.0,
+    "metallic": 0.0
+  },
+  "PianoBlack": {
+    "file": "gtr35_parts\\PianoBlack.txt",
+    "use_texture": false,
+    "base_color": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "alpha": 1.0,
+    "roughness": 1.0,
+    "metallic": 0.0
+  },
+  "PlasticGlassRed": {
+    "file": "gtr35_parts\\PlasticGlassRed.txt",
+    "use_texture": false,
+    "base_color": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "alpha": 1.0,
+    "roughness": 0.0,
+    "metallic": 0.0
+  },
+  "PlasticGlassWhite": {
+    "file": "gtr35_parts\\PlasticGlassWhite.txt",
+    "use_texture": false,
+    "base_color": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "alpha": 1.0,
+    "roughness": 0.0,
+    "metallic": 0.0
+  },
+  "PlasticGlassWhitewindshield": {
+    "file": "gtr35_parts\\PlasticGlassWhitewindshield.txt",
+    "use_texture": false,
+    "base_color": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "alpha": 1.0,
+    "roughness": 0.0,
+    "metallic": 0.0
+  },
+  "plate": {
+    "file": "gtr35_parts\\plate.txt",
+    "use_texture": true,
+    "base_color": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "alpha": 1.0,
+    "roughness": 0.12084592133760452,
+    "metallic": 0.0634441077709198
+  },
+  "redg": {
+    "file": "gtr35_parts\\redg.txt",
+    "use_texture": false,
+    "base_color": [
+      0.7847160696983337,
+      0.0011689350940287113,
+      0.0
+    ],
+    "alpha": 1.0,
+    "roughness": 0.19999998807907104,
+    "metallic": 0.0
+  },
+  "redlogo": {
+    "file": "gtr35_parts\\redlogo.txt",
+    "use_texture": false,
+    "base_color": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "alpha": 1.0,
+    "roughness": 0.08322307467460632,
+    "metallic": 0.7594936490058899
+  },
+  "redlogob": {
+    "file": "gtr35_parts\\redlogob.txt",
+    "use_texture": false,
+    "base_color": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "alpha": 1.0,
+    "roughness": 0.08322307467460632,
+    "metallic": 0.7594936490058899
+  },
+  "taillight": {
+    "file": "gtr35_parts\\taillight.txt",
+    "use_texture": false,
+    "base_color": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "alpha": 1.0,
+    "roughness": 1.0,
+    "metallic": 1.0
+  },
+  "tirerubber": {
+    "file": "gtr35_parts\\tirerubber.txt",
+    "use_texture": true,
+    "base_color": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "alpha": 1.0,
+    "roughness": 1.0,
+    "metallic": 3.0
+  },
+  "whitemat": {
+    "file": "gtr35_parts\\whitemat.txt",
+    "use_texture": false,
+    "base_color": [
+      0.7843137979507446,
+      0.7843137979507446,
+      0.7843137979507446
+    ],
+    "alpha": 1.0,
+    "roughness": 0.19999998807907104,
+    "metallic": 0.0
+  }
+}
